@@ -165,7 +165,7 @@ class Layer {
 					d.buyMax();
 				}
 			}
-			//this.maxAllCooldown = 3;
+			this.maxAllCooldown = 3;
 		}
 	}
 
